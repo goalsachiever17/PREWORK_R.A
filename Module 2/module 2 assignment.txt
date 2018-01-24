@@ -1,0 +1,33 @@
+Client-side environment: This is used to run scripts is usually a browser. The processing takes place on the end users computer. The source code is transferred from the web server to the users computer over the internet and run directly in the browser. The scripting language needs to be enabled on the client computer.
+
+
+JavaScript : This framework is an application framework written in JavaScript. It differs from a JavaScript library in its control flow: a library offers functions to be called by its parent code, whereas a framework defines the entire application design.... Examples: AngularJS, Ember.js. 
+
+
+Markup languages: It is designed for the processing, definition and presentation of text. The language specifies code for formatting, both the layout and style, within a text file. The code used to specify the formatting are called tags. HTMLis a an example of a widely known and used markup language.
+
+
+Version control systems are a category of software tools that help a software team manage changes to source code over time. ... Software developers working in teams are continually writing new source code and changing existing source code.
+
+
+Ruby on Rails, sometimes known as "RoR" or just "Rails," is an open source framework for Web development in Ruby, an object-oriented programming (OOP) language similar to Perl and Python.
+
+
+Extensible Hypertext Markup Language (XHTML) is part of the family of XML markup languages. ... While HTML, prior to HTML5, was defined as an application of Standard Generalized Markup Language (SGML), a flexible markup language framework, XHTML is an application of XML, a more restrictive subset of SGML.
+
+
+PHP is a server-side scripting language designed primarily for web development but also used as a general-purpose programming language. ... PHP originally stood for Personal Home Page, but it now stands for the recursive acronym PHP: Hypertext Preprocessor.
+
+A content management system (CMS) is a software application or set of related programs that are used to create and manage digital content. CMSes are typically used for enterprise content management (ECM) and web content management
+
+
+Bootstrap is a free and open source front end development framework for the creation of websites and web apps. The Bootstrap framework is built on HTML, CSS, and JavaScript (JS) to facilitate the development of responsive, mobile-first sites and app
+
+
+Drupal : is free, open source software that can be used by individuals or groups of users -- even those lacking technical skills -- to easily create and manage many types of Web sites. The application includes a content management platform and a development framework
+
+
+SQL (pronounced "ess-que-el") stands for Structured Query Language. SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems.
+
+
+

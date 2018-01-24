@@ -1,0 +1,25 @@
+errols in the broken code.
+
+1. the h4 is not useful to the page I had to comment on it, so that it will not be found on the page
+
+2. I removed the div contianing instruction in the broken code by commenting on it.
+
+3. The h1 tag was missing in the broken code. Hence, the div that it contained shrinked and the writing became tiny. I fixed it by adding the h1 tag
+
+4. The div class "panel heading" had a confusing discription (About Boo) I changed to (About Boo The Dog) which tells a better summary of the page.
+
+5. In the about col, the broken code was rough, no spacing, no sections like the working code. I seperated the body into 4 paragraphs and space in between. I also observed that the external link that should take the reader to its wikipedia page was missing, so I added the link.
+
+6. In the broken-code, the boo image element was ommited which made the image link not reponsive. I simply added the img element which is self-closing.
+
+7. In the "list of boo's favorite things, the ordered list tag was missing, making that spot empty in the page. I use the ol tag to make it appear.
+
+8. In the working code the grow-shrink and the cat-rules came first in the order of left-right and the cat-fact and cat-favorite things div came after and below. in the broken code, it was all different so I arranged the code in the order I wanted it to appear. 
+
+9. In the broken-code, the Boo rules has an id of colors that do dont tally with what is written in the buttons. 
+
+10. In the javascript file, some symbols where missing, I added those symbols like " " for it to function well.
+
+11. There was no indication in the broken code that the Js file was added for some functions to respond. I commented that on the broken code in the html file. After doing this, the code stil did not respond because the src indicated "errors.js" instead of "logic.js" that was also fixed.
+
+generally, in the broken code js file, there were no comment made to indicate all the functions. i made lots of changes to make the code responsive.

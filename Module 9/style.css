@@ -1,0 +1,46 @@
+
+
+h1{
+	 
+	text-align: center;
+}
+ .red-text {
+ 	color: red;
+ } 
+ .blue-text {
+ 	color:blue;
+ }
+
+ .green-text {
+ 	color: green;
+ }
+
+
+
+.font-size {font-size: 10px;}
+
+#font-size {font-size: 30px;}
+.text-align{text-align: center;}
+
+.font-family {font-family: monospace;}
+
+ .text-big {
+ 	font-size: 25px;
+ 	color: orange;
+ 	font-weight: bolder;
+ }
+
+ .styledFont {
+    color: purple;
+    font-size: 15px;
+    font-family: Georgia;
+
+    }
+
+
+      #styledImage { 
+       	border-color: green;
+       border-width: 10px;
+       border-style: solid;}
+       
+ 
